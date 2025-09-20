@@ -1,3 +1,15 @@
+📌 TL;DR
+
+Built a Bank Subscription Prediction model using classification algorithms on an imbalanced dataset.
+
+Applied SMOTE to balance classes and improve recall.
+
+Compared Logistic Regression, Decision Trees, and Random Forests.
+
+Optimized decision threshold to maximize recall (catch all fraud/positives).
+
+Final model achieved X% accuracy, Y% recall (critical metric).
+
 BANK SUBSCRIPTION PREDICTION
 Machine Learning project on Titanic dataset (Kaggle). Includes EDA, preprocessing, Logistic Regression, Decision Tree, Random Forest, and XGBoost models, using SMOTE analysis and roc and auc curve.
 
