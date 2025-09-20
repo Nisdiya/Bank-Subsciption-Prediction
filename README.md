@@ -1,7 +1,7 @@
 BANK SUBSCRIPTION PREDICTION
 Machine Learning project on Titanic dataset (Kaggle). Includes EDA, preprocessing, Logistic Regression, Decision Tree, Random Forest, and XGBoost models, using SMOTE analysis and roc and auc curve.
 
-BANKING SUBSCRIPTION COUNT
+BANKING SUBSCRIPTION PREDICTION
 This project is based on the famous Banking dataset from Kaggle.
 Goal: Predict subscription made by customers using ML models. This was my second ML project where i learned about terms like Oversampling(reduced by SMOTE), Confusion Matrix, Precision, Recall, Threshold and a lot more.
 
