@@ -38,4 +38,4 @@ Learned error solving by own
 
 Model Results 🎯
 Random Forest (tuned) performed the best with a small train-test gap.
-https://github.com/Nisdiya/Titanic-Survival-Prediction/tree/main/images
+https://github.com/Nisdiya/Bank-Subsciption-Prediction/tree/main/images
